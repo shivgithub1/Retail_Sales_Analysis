@@ -111,7 +111,7 @@ retail_sales_analysis
 
 ## 🙋‍♂️ Author  
 
-**[Shiv Kumar**  
+**[Shiv Kumar]**  
 
 ## 📬 Contact  
 
